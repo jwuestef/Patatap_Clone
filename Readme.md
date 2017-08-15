@@ -1,0 +1,2 @@
+# Patatap Clone
+A website similar to [Patatap](http://patatap.com/) that plays sounds when a-z keys are pressed. This was created by following a [Udemy tutorial](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/) by Colt Steele.
